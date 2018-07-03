@@ -1,0 +1,12 @@
+{
+  "name": "express-auth-egghead",
+  "version": "1.0.0",
+  "description": "JSON Web Token (JWT) Authentication with Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Allan <growlymike@gmail.com>",
+  "license": "ISC"
+}
